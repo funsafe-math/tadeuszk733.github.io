@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Komentarze do CPS	</title>
-	<atom:link href="/pl/comments/feed/" rel="self" type="application/rss+xml" />
-	<link href="">/pl/</link>
+	Comments for CPS	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Custom Printed Submarine</description>
-	<lastbuilddate>Mon, 08 Feb 2021 18:02:36 +0000</lastbuilddate>
-	<sy:updateperiod>
-	hourly	</sy:updateperiod>
-	<sy:updatefrequency>
-	1	</sy:updatefrequency>
+	<lastBuildDate>Mon, 08 Feb 2021 18:02:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6.1</generator>
 </channel>
 </rss>
