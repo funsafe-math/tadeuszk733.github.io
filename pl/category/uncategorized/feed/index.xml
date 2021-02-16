@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; CPS</title>
+	<atom:link href="https://tadeuszk733.github.io/pl/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link href="">https://tadeuszk733.github.io/pl/</link>
+	<description>Custom Printed Submarine</description>
+	<lastbuilddate>Thu, 02 Jul 2020 04:26:29 +0000</lastbuilddate>
+	<language>pl-PL</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+
+<image>
+	<url>https://tadeuszk733.github.io/wp-content/uploads/2020/07/cropped-logo-cpsdrone-com-08-08-1-32x32.png</url>
+	<title>Uncategorized &#8211; CPS</title>
+	<link href="">https://tadeuszk733.github.io/pl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link href="">https://tadeuszk733.github.io/pl/hello-world/</link>
+					<comments>https://tadeuszk733.github.io/pl/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubdate>Thu, 02 Jul 2020 04:26:29 +0000</pubdate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid ispermalink="false">https://tadeuszk733.github.io/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://tadeuszk733.github.io/pl/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://tadeuszk733.github.io/pl/">CPS</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a rel="nofollow" href="https://tadeuszk733.github.io/pl/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://tadeuszk733.github.io/pl/">CPS</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentrss>https://tadeuszk733.github.io/pl/hello-world/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
