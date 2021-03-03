@@ -11,11 +11,11 @@
 	<atom:link href="/pl/comments/feed/" rel="self" type="application/rss+xml" />
 	<link href="">/pl/</link>
 	<description>Custom Printed Submarine</description>
-	<lastbuilddate>Mon, 08 Feb 2021 18:02:36 +0000</lastbuilddate>
+	<lastbuilddate>Wed, 10 Feb 2021 20:02:28 +0000</lastbuilddate>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
 	<sy:updatefrequency>
 	1	</sy:updatefrequency>
-	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
 </channel>
 </rss>
