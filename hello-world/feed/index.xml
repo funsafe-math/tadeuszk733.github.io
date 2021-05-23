@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for CPS	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/hello-world/</link>
 	<description>Custom Printed Submarine</description>
-	<lastBuildDate>Sat, 22 May 2021 19:26:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jul 2020 04:26:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
